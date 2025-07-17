@@ -1,4 +1,4 @@
-📚 Java Quiz Application
+##📚 Java Quiz Application
 The Java Quiz Application is a simple yet powerful desktop program designed to test users with multiple-choice questions in an interactive way. It demonstrates how core Java concepts and technologies come together to build a responsive GUI-based application.
 
 🚀 Key Technologies & Concepts
